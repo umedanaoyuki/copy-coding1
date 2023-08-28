@@ -43,7 +43,6 @@ section p {
 }
 
 section {
-
   width: 400px;
   margin: 64px auto 0;
 }
@@ -51,4 +50,18 @@ section {
 footer {
   border-top: 1px solid #CCC;
   text-align: center;
+  padding: 64px 0;
 }
+
+ small {
+   font-size: 14px;
+   color: #aaa;
+ }
+
+ a:hover {
+   opacity: 0.7;
+ }
+
+ address {
+   margin-top: 16px;
+ }
