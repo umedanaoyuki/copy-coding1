@@ -24,18 +24,21 @@ h2 {
   font-size: 24px;
   margin: 0;
   font-weight: normal;
+  text-align: center;
 }
 
 h3 {
   margin: 0;
   font-size: 20px;
   font-weight: normal;
+  text-align: center;
 }
 
 p {
   margin: 0;
 }
 
-main {
-  text-align: center;
+section {
+  width: 400px;
+  margin: 0 auto;
 }
