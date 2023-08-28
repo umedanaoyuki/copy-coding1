@@ -20,6 +20,18 @@ h1 {
   font-size: 24px;
 }
 
+h2 {
+  font-size: 24px;
+  margin: 0;
+  font-weight: normal;
+}
+
+h3 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: normal;
+}
+
 p {
   margin: 0;
 }
