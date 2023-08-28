@@ -9,12 +9,13 @@ img {
 }
 
 header {
+  padding: 32px 0;
   background: #eee;
   text-align: center;
 }
 
 h1 {
-  margin: 0;
+  margin: 16px 0 0;
   font-weight: normal;
   font-size: 24px;
 }
