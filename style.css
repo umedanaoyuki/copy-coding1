@@ -31,17 +31,19 @@ h2 {
 }
 
 h3 {
-  margin: 0;
+  margin: 16px 0 0;
   font-size: 20px;
   font-weight: normal;
   text-align: center;
 }
 
-p {
-  margin: 0;
+section p {
+  margin-top: 16px;
+  line-height: 1.8;
 }
 
 section {
+
   width: 400px;
   margin: 64px auto 0;
 }
