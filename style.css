@@ -20,9 +20,12 @@ h1 {
   font-size: 24px;
 }
 
+main {
+  padding: 64px 0;
+}
+
 h2 {
   font-size: 24px;
-  margin: 0;
   font-weight: normal;
   text-align: center;
 }
@@ -40,5 +43,5 @@ p {
 
 section {
   width: 400px;
-  margin: 0 auto;
+  margin: 64px auto 0;
 }
