@@ -47,3 +47,8 @@ section {
   width: 400px;
   margin: 64px auto 0;
 }
+
+footer {
+  border-top: 1px solid #CCC;
+  text-align: center;
+}
